@@ -21,6 +21,5 @@ public class Main {
         Kucing.BeratHewan(2);
         Kucing.JumlahKakiHewan(4);
         Kucing.CetakHewan();
-
     }
 }
